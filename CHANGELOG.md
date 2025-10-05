@@ -14,3 +14,5 @@
 
 - Generate typescript code with functions `loadType` and `storeType` for TL-B scheme according to the [documentation TL-B](https://docs.ton.org/develop/data-formats/tl-b-language)
 - Integration with [@ton/core](https://github.com/ton-org/ton-core/) in a way it uses several built-in types from there
+
+<!-- Auto-update: 2025-10-05T10:42:49.617388 -->
