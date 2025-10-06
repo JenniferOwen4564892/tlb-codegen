@@ -87,3 +87,5 @@ Built-in types supported are:
 ## License
 
 This package is released under the [MIT License](LICENSE).
+
+<!-- Auto-update: 2025-10-06T08:26:23.317817 -->
